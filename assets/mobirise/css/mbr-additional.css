@@ -1,0 +1,49 @@
+#msg-box3-NaN .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-NaN .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-NaN .mbr-article P {
+  text-align: center;
+}
+#msg-box4-NaN .mbr-header__text {
+  color: #ffffff;
+  font-size: 23px;
+}
+#msg-box4-NaN .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-NaN .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-NaN .mbr-article P {
+  font-size: 15px;
+  text-align: left;
+}
+#msg-box2-NaN .mbr-header .mbr-header__text {
+  color: #252525;
+}
+#msg-box2-NaN .mbr-article {
+  color: #252525;
+}
+#dropdown-menu-NaN .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-NaN .nav .link,
+#dropdown-menu-NaN .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-NaN .navbar,
+#dropdown-menu-NaN .dropdown-menu {
+  background: #a38f84;
+}
+#dropdown-menu-NaN .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-NaN .dropdown-menu a:hover,
+#dropdown-menu-NaN .dropdown-menu a:focus {
+  background: #9a8478;
+}
+#dropdown-menu-NaN .navbar-toggler {
+  color: #ffffff;
+}
